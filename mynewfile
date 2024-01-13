@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main()
+{
+    int a ;
+    int b ;
+   a = scanf("enter a");
+   b = scanf("enter b");
+   printf("a + b = %d", a + b);
+
+   return 0;
+}
